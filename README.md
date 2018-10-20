@@ -1,20 +1,7 @@
 # Memory Game Project
 
-## Table of Contents
+This is the Memory Game project for the Udacity Front-End Developer Nano-Degree. This project uses HTML, JavaScript, and CSS to create a memory matching game.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+Load the page in your browser to play. Click any two tiles that have not been matched in an attempt to find matches. If tiles do not match, they will be hidden again after one second. You have up to 18 moves for a three star rank, 21 moves for a two star rank, and 24 moves for a one star rank.
 
-## Instructions
-
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+Completing the game will present a confirmation dialog with you game details and the option to start again. The reset button at the top of the game can reset at any time.
